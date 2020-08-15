@@ -16,7 +16,5 @@
 		"url": "https://github.com/zeepk/404-game/issues"
 	},
 	"homepage": "https://github.com/zeepk/404-game#readme",
-	"dependencies": {
-		"kontra": "^7.0.0"
-	}
+	"dependencies": {}
 }
