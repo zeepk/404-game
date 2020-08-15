@@ -1,0 +1,22 @@
+{
+	"name": "404-game",
+	"version": "1.0.0",
+	"description": "Game for js13kGames 2020!",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/zeepk/404-game.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/zeepk/404-game/issues"
+	},
+	"homepage": "https://github.com/zeepk/404-game#readme",
+	"dependencies": {
+		"kontra": "^7.0.0"
+	}
+}
